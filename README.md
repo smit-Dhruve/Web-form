@@ -1,5 +1,5 @@
 # Web-form
-# to run the code execute the following steps
+# To run the code execute the following steps
 ## steps
 STEP1 : run npm install
 
